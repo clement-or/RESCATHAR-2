@@ -21,3 +21,9 @@ func move(dir):
 	if typeof(dir) == TYPE_STRING:
 		dir = directions.dir
 	position += dir * tile_size
+	
+	#kzheguheizghfoiezhgfhezh
+	#kjzgyhoizhegihezgoiezhg
+
+func lol():
+	pass
